@@ -1,3 +1,4 @@
+name: psfds
 channels:
   - default
   - bioconda
