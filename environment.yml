@@ -5,6 +5,9 @@ channels:
   - conda-forge
 dependencies:
   - python
+  - plotly
+  - xlrd
+  - umap
   - jupyter
   - pandas
   - matplotlib
